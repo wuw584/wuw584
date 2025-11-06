@@ -58,12 +58,12 @@ A cross-disciplinary researcher bridging **Computer Science**, **Marine Science*
 ![DAS](https://img.shields.io/badge/Distributed%20Acoustic%20Sensing-2E86AB?style=flat-square&logo=seismic&logoColor=white)
 ![Seismic Analysis](https://img.shields.io/badge/Seismic%20Analysis-6A994E?style=flat-square&logo=earthquake&logoColor=white)
 ![Obspy](https://img.shields.io/badge/Obspy-FFD700?style=flat-square&logo=python&logoColor=black)
-
+<!-- 
 ## 📚 Academic Background
 | Degree | Institution | Major | Period |
 |--------|-------------|-------|--------|
 | M.S. | Southern University of Science and Technology (SUSTech) | Marine Science and Engineering | 2023 - 2025 (Expected) |
-| B.S. | Southern University of Science and Technology (SUSTech) | Computer Science and Technology | 2019 - 2023 |
+| B.S. | Southern University of Science and Technology (SUSTech) | Computer Science and Technology | 2019 - 2023 | -->
 
 ## 🌐 Connect With Me
 - [GitHub](https://github.com/wuw584) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
