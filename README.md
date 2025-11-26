@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zemin Wu (吴泽敏)
+# 👋 Hi, I'm Zemin Wu 
 > PhD Applicant in Geophysics | AI + Distributed Acoustic Sensing (DAS) Researcher  
 > M.S. @ Southern University of Science and Technology (SUSTech) | B.S. in Computer Science
 
